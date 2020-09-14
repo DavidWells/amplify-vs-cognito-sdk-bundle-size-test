@@ -16,4 +16,4 @@ import CognitoIdentityServiceProvider from 'aws-sdk/clients/cognitoidentityservi
 
 ## Winner
 
-Amplify by 21.43kb
+Amplify wins by being 21.43kb smaller 
