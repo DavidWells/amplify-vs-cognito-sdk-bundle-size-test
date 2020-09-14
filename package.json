@@ -3,12 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@aws-amplify/auth": "^3.4.2",
+    "@aws-amplify/core": "^3.5.2",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
+    "amazon-cognito-identity-js": "^4.4.0",
+    "aws-sdk": "^2.751.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-scripts": "3.4.3",
+    "request-promise": "^4.2.6"
   },
   "scripts": {
     "start": "react-scripts start",
